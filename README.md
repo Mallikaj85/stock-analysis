@@ -10,6 +10,8 @@ Thus, refactoring is necessary and have potential advantages such as: improved c
 ### 2. Results
 
 **Refactored Code for All Stocks Analysis**
+
+
 ![image](https://user-images.githubusercontent.com/86085614/125226038-4da06700-e29e-11eb-86a6-6ad27582751c.png)
 ![image](https://user-images.githubusercontent.com/86085614/125226047-5002c100-e29e-11eb-8f8f-478ac18ef9bf.png)
 ![image](https://user-images.githubusercontent.com/86085614/125226062-58f39280-e29e-11eb-89c4-bdf277d4fe85.png)

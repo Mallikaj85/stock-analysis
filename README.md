@@ -34,7 +34,9 @@ Thus, refactoring is necessary and have potential advantages such as: improved c
 •	Extracted variables good names that announce the variable’s purpose loud and clear. More readability, fewer long-winded comments.
 
 **Disadvantages of refactoring code**
+
 •	Code refactoring is time-consuming. It takes anywhere between 50-150 hours to update the technology stack for small projects. Big projects requiring major changes on the backend and the frontend may easily take over 500 hours.
+
 •	If you need to make some big changes to the system and modify the system’s structure, it’s easier to build new software from scratch.
 
 
@@ -42,14 +44,22 @@ Thus, refactoring is necessary and have potential advantages such as: improved c
 **How do these pros and cons apply to refactoring the original VBA script?**
 
 For Refactoring of VBA Scripting, the main pros that can be applied are : 
+
 •	cleaner code, 
+
 •	less execution time for code to run, 
+
 •	more easier to understand, 
+
 •	standardization of code, 
+
 •	fewer space and duplicated comments.
 
 The cons that can be applied for Refactoring of VBA Scripting are: 
+
 •	reinventing the code which take same or more amount of time of writing the original code, 
+
 •	restructuring sometime lose the important comments that can be used for readers to understand the code easily
+
 •	Refactoring loses the preliminary thought process and essence on which code has been initially developed
 

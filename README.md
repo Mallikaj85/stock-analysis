@@ -4,7 +4,12 @@
 
 ### 1. Overview of Project: Purpose of this analysis
 The Challenge involves the “refactoring” or editing the existing code to make it more efficient. Refactoring is intended to improve the design, structure, and/or implementation of the existing VBA code while preserving its functionality. (Source: Wikipedia)
+
+
 We have already prepared the workbook for Steve, in which he can access and analyse entire data set by using a VBA button. Though code went through several iterations and have significant redundancy and additional text. The code is unstructured, thus, a nontechnical person like Steve cannot understand the process involved in Stock Market Data Set Analysis.
+
+
+
 Thus, refactoring is necessary and have potential advantages such as: improved code readability, reduced complexity and improved performance. In current analysis we are refactoring the code to improve the source code's maintainability and create a simpler, cleaner, or more expressive internal architecture or object model to improve extensibility and code performs faster or use less memory.
 
 ### 2. Results

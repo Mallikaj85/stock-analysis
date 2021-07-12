@@ -20,6 +20,7 @@ Thus, refactoring is necessary and have potential advantages such as: improved c
 **Methods used for refactoring the code**
 1.	Extract Method: The more lines found in a method, the harder it is to figure out what the method does. This is the main reason for this refactoring. 
 2.	Extract Variable: The main reason for extracting variables is to make a complex expression more understandable, by dividing it into its intermediate parts. These could be: Condition of the if() operator or a part of the ?: operator in C-based languages, A long arithmetic expression without intermediate results, Long multipart lines.
+3.	Adding Comment: Adding Comments is requiered, as a Best Practices for Writing a Readable Code such as Commenting & Documentation, Consistent Indentation, Avoid Obvious Comments, Code Grouping, Consistent Naming Scheme, DRY (Don't Repeat Yourself) Principle, Avoid Deep Nesting, amd Limit Line Length.
 
 **Stock performance between 2017 and 2018**
 

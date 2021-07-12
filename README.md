@@ -1,6 +1,6 @@
 # stock-analysis
 
-## Kickstarting with Excel
+## VBA of Wall Street
 
 ### 1. Overview of Project: Purpose of this analysis
 

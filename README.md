@@ -45,9 +45,17 @@ After adding Buttons for analysis and clearing the worksheet.
 
 
 
-
 **Execution times of the original script and the refactored script**
 ![Execution Time before and after Refactoring the code](https://user-images.githubusercontent.com/86085614/125226024-46795900-e29e-11eb-8258-0add42289550.png)
+
+
+After Reanalysis, the Execution times for 2017 and 2018 are:
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/86085614/125227696-5d6d7a80-e2a1-11eb-98be-03d95cc87e4c.png)
+
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/86085614/125227688-58103000-e2a1-11eb-8b7c-ec2ee205eef0.png)
+
 
 
 ### 3. Summary

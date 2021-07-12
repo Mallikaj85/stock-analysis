@@ -21,6 +21,8 @@ Thus, refactoring is necessary and have potential advantages such as: improved c
 2.	Extract Variable: The main reason for extracting variables is to make a complex expression more understandable, by dividing it into its intermediate parts. These could be: Condition of the if() operator or a part of the ?: operator in C-based languages, A long arithmetic expression without intermediate results, Long multipart lines.
 
 **Stock performance between 2017 and 2018**
+
+
 ![Stock Performance 2017](https://user-images.githubusercontent.com/86085614/125226083-64df5480-e29e-11eb-8e74-523ccac0fb40.png)
 ![Stock Performance 2018](https://user-images.githubusercontent.com/86085614/125226088-67da4500-e29e-11eb-8191-a740498c4efa.png)
 

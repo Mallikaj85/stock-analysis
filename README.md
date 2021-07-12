@@ -17,4 +17,4 @@
 
 
 
-**How do these pros and cons apply to refactoring the original VBA script? **
+**How do these pros and cons apply to refactoring the original VBA script?**

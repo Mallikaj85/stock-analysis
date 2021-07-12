@@ -34,6 +34,15 @@ Thus, refactoring is necessary and have potential advantages such as: improved c
 ![Stock Performance 2018](https://user-images.githubusercontent.com/86085614/125226088-67da4500-e29e-11eb-8191-a740498c4efa.png)
 
 
+After adding Button for analysis.
+
+![image](https://user-images.githubusercontent.com/86085614/125227116-4712ef00-e2a0-11eb-87cf-61a5d85b4f0c.png)
+
+![image](https://user-images.githubusercontent.com/86085614/125227144-55f9a180-e2a0-11eb-8fd0-bbf025c93899.png)
+
+
+
+
 **Execution times of the original script and the refactored script**
 ![Execution Time before and after Refactoring the code](https://user-images.githubusercontent.com/86085614/125226024-46795900-e29e-11eb-8258-0add42289550.png)
 

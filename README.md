@@ -24,9 +24,13 @@ Thus, refactoring is necessary and have potential advantages such as: improved c
 ### 3. Summary
 
 **Advantages of refactoring code**
+
 •	More readable code! By giving the new method a name that describes the method’s purpose: tickerStartingPrices (), tickerVolumes (), etc.
+
 •	Less code duplication. Often the code that is found in a method can be reused in other places in your program. Thus, the duplicates can be replaced with calls to your new method.
+
 •	Extract method particularly isolates independent parts of code, meaning that errors are less likely (such as if the wrong variable is modified).
+
 •	Extracted variables good names that announce the variable’s purpose loud and clear. More readability, fewer long-winded comments.
 
 **Disadvantages of refactoring code**

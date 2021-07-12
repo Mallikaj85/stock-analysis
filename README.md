@@ -11,14 +11,22 @@ Thus, refactoring is necessary and have potential advantages such as: improved c
 
 **Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.**
 **Refactored Code for All Stocks Analysis**
+![image](https://user-images.githubusercontent.com/86085614/125226038-4da06700-e29e-11eb-86a6-6ad27582751c.png)
+![image](https://user-images.githubusercontent.com/86085614/125226047-5002c100-e29e-11eb-8f8f-478ac18ef9bf.png)
+![image](https://user-images.githubusercontent.com/86085614/125226062-58f39280-e29e-11eb-89c4-bdf277d4fe85.png)
+
 
 **Methods used for refactoring the code**
 1.	Extract Method: The more lines found in a method, the harder it is to figure out what the method does. This is the main reason for this refactoring. 
 2.	Extract Variable: The main reason for extracting variables is to make a complex expression more understandable, by dividing it into its intermediate parts. These could be: Condition of the if() operator or a part of the ?: operator in C-based languages, A long arithmetic expression without intermediate results, Long multipart lines.
 
 **Stock performance between 2017 and 2018**
+![Stock Performance 2017](https://user-images.githubusercontent.com/86085614/125226083-64df5480-e29e-11eb-8e74-523ccac0fb40.png)
+![Stock Performance 2018](https://user-images.githubusercontent.com/86085614/125226088-67da4500-e29e-11eb-8191-a740498c4efa.png)
+
 
 **Execution times of the original script and the refactored script**
+![Execution Time before and after Refactoring the code](https://user-images.githubusercontent.com/86085614/125226024-46795900-e29e-11eb-8258-0add42289550.png)
 
 
 ### 3. Summary

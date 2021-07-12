@@ -36,12 +36,13 @@ Thus, refactoring is necessary and have potential advantages such as: improved c
 
 After adding Buttons for analysis and clearing the worksheet.
 
+![image](https://user-images.githubusercontent.com/86085614/125227281-9c4f0080-e2a0-11eb-85dc-b8b9616e2f54.png)
+
 ![image](https://user-images.githubusercontent.com/86085614/125227116-4712ef00-e2a0-11eb-87cf-61a5d85b4f0c.png)
 
 ![image](https://user-images.githubusercontent.com/86085614/125227144-55f9a180-e2a0-11eb-8fd0-bbf025c93899.png)
 
 
-![image](https://user-images.githubusercontent.com/86085614/125227281-9c4f0080-e2a0-11eb-85dc-b8b9616e2f54.png)
 
 
 
